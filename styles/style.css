@@ -1,0 +1,87 @@
+body {
+  overflow-x: hidden;
+  font-family: bu;
+}
+
+/*=== Start Header ====*/
+.custom-container {
+  width: 95%;
+}
+.main-logo {
+  width: 126px;
+  height: 40px;
+}
+.nav-link:hover {
+  color: rgb(209, 83, 83);
+}
+.phone-icon {
+  width: 35px;
+  height: 35px;
+}
+/*=== End Header ====*/
+
+/*=== Start Contact us ====*/
+.contact-us {
+  font-size: 70px;
+}
+.icons-box {
+  height: 300px;
+}
+/*=== End Contact us ====*/
+
+/*=== Start Hero  ====*/
+.carousel-item {
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+.hero-img {
+  width: 709px;
+  height: 625px;
+}
+.circle img {
+  width: 145px;
+  height: 145px;
+}
+.right-bg {
+  background-image: url(/images/banner1-demo1.jpg);
+}
+.bottom-img {
+  background-image: url(/images/banner2-demo1.jpg) !important;
+}
+/*=== End Hero  ====*/
+
+.count-number {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.color-span {
+  width: 15px;
+  height: 15px;
+}
+
+.red-hover:hover {
+  color: #de1010 !important;
+}
+
+.scroll-list {
+  height: 300px;
+  overflow-y: auto;
+}
+
+.counter-sec,
+.counter-hour,
+.counter-min {
+  width: 35px;
+  height: 35px;
+}
+
+footer {
+  background-color: black;
+}
+footer a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
