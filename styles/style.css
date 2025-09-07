@@ -44,10 +44,10 @@ body {
   height: 145px;
 }
 .right-bg {
-  background-image: url(/images/banner1-demo1.jpg);
+  background-image: url(../images/banner1-demo1.jpg);
 }
 .bottom-img {
-  background-image: url(/images/banner2-demo1.jpg) !important;
+  background-image: url(../images/banner2-demo1.jpg) !important;
 }
 /*=== End Hero  ====*/
 
@@ -85,3 +85,4 @@ footer a {
   text-decoration: none;
   color: white;
 }
+
